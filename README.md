@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waschbaer2004
-- 👀 I’m interested in Python and Ubuntu things.
+- 👀 I’m interested in Python and the OS Linux Ubuntu, as well as the KDE Plasma desktop Enviroment.
 - 🌱 I’m currently learning how to code in Python.
 
 <!---
