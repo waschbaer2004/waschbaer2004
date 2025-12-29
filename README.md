@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @waschbaer2004
-- 👀 I’m interested in Python and the OS Linux Ubuntu, as well as the KDE Plasma desktop Enviroment.
-- 🌱 I’m currently learning how to code in Python.
-- Also i love Mountainbiking.
+- 👀 I’m interested in Python and the OS Ubuntu, as well as the KDE Plasma desktop Enviroment.
+- Also i love Mountainbiking. - Bikrepublic Sölden!
 - For some reason i have a own VM server. On this thing are some Servers, a Firewall, and some test Windows and Linux VMs.
 - Using KDE Neon (Ubuntu 22.04 based) on my Main PC.
 
